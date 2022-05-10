@@ -8,10 +8,11 @@ test('create Engineer object', () => {
 });
 
 // get Engineer github
-test('get Engineer github', () => {
-    const engineer = new Engineer('name', 'id', 'email', 'github');
-
-    expect(engineer.getGithub()).toEqual(expect.any(String));
+test('get Engineer Github', () => {
+    const engineer = new Engineer('Adriana', '1', 'test@gmail.com', 'adrianapvent');
+    const test = engineer.getGitHub();
+    
+    expect(test).toEqual("https://github.com/adrianapvent");
 });
 
 // get Engineer role
