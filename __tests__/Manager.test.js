@@ -1,4 +1,3 @@
-const { expect } = require('expect');
 const Manager = require('../lib/assets/js/Manager.js');
 
 test('create Manager object', () => {
