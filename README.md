@@ -8,7 +8,7 @@ Thank you for taking the time to review my Team Profile Generator!
 
 [team-profile-generator](https://github.com/adrianapvent/team-profile-generator) is able to gather input entered in node.js and produce a generated html of the entered responses.
 
-You may also visit the YouTube to demonstrate how the website functions. [website](https://www.youtube.com/watch?v=OW-t3ZZ8nnA).
+You may also visit the YouTube videon for for demostrations on how the website functions [website](https://www.youtube.com/watch?v=OW-t3ZZ8nnA).
 
 ## User Story
 AS A manager
